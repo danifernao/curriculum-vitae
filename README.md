@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-Una hoja de vida tradicional elaborado con React, con la posibilidad de ofrecer el contenido en varios idiomas.
+Una hoja de vida tradicional elaborada con React, con la posibilidad de ofrecer el contenido en varios idiomas.
 
 ![Captura de pantalla de la hoja de vida](/screenshot.png)
 
