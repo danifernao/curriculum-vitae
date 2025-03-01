@@ -1,0 +1,197 @@
+{
+  "header": {
+    "name": "Juan Pérez López",
+    "headline": "Desarrollador web",
+    "about":
+      "Soy desarrollador web apasionado por crear experiencias digitales intuitivas y funcionales. Con experiencia en tecnologías como HTML, CSS, JavaScript y frameworks como React y Node.js, me especializo en construir sitios web y aplicaciones interactivas que no solo sean visualmente atractivas, sino también eficientes y accesibles."
+  },
+  "aside": {
+    "photo": {
+      "filename": "photo.jpg",
+      "alt": "Foto de perfil"
+    },
+    "details": [
+      {
+        "heading": "Datos personales",
+        "content": [
+          {
+            "heading": "Identificación",
+            "paragraph": "C.C. 100321654987"
+          },
+          {
+            "heading": "Edad",
+            "paragraph": "32 años"
+          },
+          {
+            "heading": "Dirección",
+            "paragraph": "Calle 500 #50-30 Apto. 14 Bogotá, Colombia"
+          },
+          {
+            "heading": "Teléfono",
+            "paragraph": "+57 200 111 2222",
+            "href": "https://wa.me/+572001112222"
+          },
+          {
+            "heading": "Correo electrónico",
+            "paragraph": "juanperez@example.com",
+            "href": "mailto:juanperez@example.com"
+          }
+        ]
+      },
+      {
+        "heading": "Idiomas",
+        "content": [
+          {
+            "heading": "Idiomas",
+            "skills": [
+              {
+                "max_level": 6,
+                "curr_level": 4,
+                "description": "Inglés B2"
+              },
+              {
+                "max_level": 6,
+                "curr_level": 6,
+                "description": "Español C2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "main": [
+    {
+      "heading": "Conocimientos",
+      "content": [
+        {
+          "left": {
+            "heading": "Desarrollo:"
+          },
+          "right": {
+            "paragraph": "HTML5, CSS3, JavaScript, React, Node.js, Laravel, MySQL."
+          }
+        },
+        {
+          "left": {
+            "heading": "CMS:"
+          },
+          "right": {
+            "paragraph": "WordPress, Shopify."
+          }
+        },
+        {
+          "left": {
+            "heading": "Filosofías:"
+          },
+          "right": {
+            "paragraph": "Diseño adaptable, SEO, interoperabilidad."
+          }
+        },
+        {
+          "left": {
+            "heading": "Herramientas:"
+          },
+          "right": {
+            "paragraph": "Git, Visual Studio Code, Adobe Photoshop, Adobe Illustrator."
+          }
+        },
+        {
+          "left": {
+            "heading": "Técnico:"
+          },
+          "right": {
+            "paragraph": "Mantenimiento de equipos de cómputo, instalación de redes de datos."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Educación",
+      "content": [
+        {
+          "left": {
+            "heading": "2015 - 2019"
+          },
+          "right": {
+            "heading": "Ingeniería de Software",
+            "paragraph": "Universidad de Arcadia"
+          }
+        },
+        {
+          "left": {
+            "heading": "2012 - 2014"
+          },
+          "right": {
+            "heading": "Tecnología en Desarrollo de Software",
+            "paragraph": "Instituto Tecnológico de Solis"
+          }
+        },
+        {
+          "left": {
+            "heading": "2010 - 2011"
+          },
+          "right": {
+            "heading": "Certificación Internacional de Inglés B2",
+            "paragraph": "Academia de Idiomas Horizonte"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Experiencia",
+      "content": [
+        {
+          "left": {
+            "heading": "2024 - 2025",
+            "paragraph": "08/01 – 28/02"
+          },
+          "right": {
+            "heading": "Líder de Desarrollo Web",
+            "paragraph": "NexoWeb Studios – Bogotá\nTels. (601) 444 4444 – 455 5555\nSupervisé y coordiné el equipo de desarrollo web. Definí las arquitecturas tecnológicas. Aseguré la entrega a tiempo de los proyectos y el cumplimiento de los estándares de calidad."
+          }
+        },
+        {
+          "left": {
+            "heading": "2022 - 2023",
+            "paragraph": "03/01 – 29/12"
+          },
+          "right":{
+            "heading": "Ingeniero de Calidad de Software",
+            "paragraph": "InnovaWeb Labs – Bogotá\nTels. (601) 422 2222 – 433 3333\nProbé sitios y aplicaciones web para detectar errores. Escribí y ejecuté pruebas automatizadas. Colaboré con los desarrolladores para mejorar la calidad del código."
+          }
+        },        
+        {
+          "left": {
+            "heading": "2020 - 2021",
+            "paragraph": "20/01 – 31/12"
+          },
+          "right": {
+            "heading": "Desarrollador Web Junior",
+            "paragraph": "Tels. (601) 400 0000 – 411 1111\nColaboré en la creación de sitios web utilizando HTML, CSS y JavaScript. Asistí en la implementación de mejoras y corrección de errores. Participé en pruebas de funcionalidad."
+          }
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "description": "Toda la información presentada en esta página es ficticia. Imagen proporcionada por JuliusBusch en Pixabay.com",
+    "social": [
+      {
+        "icon": "x-twitter",
+        "title": "Mi perfil en X",
+        "href": "https://twitter.com"
+      },
+      {
+        "icon": "github",
+        "title": "Mi perfil en GitHub",
+        "href": "https://github.com"
+      },
+      {
+        "icon": "linkedin",
+        "title": "Mi perfil en LinkedIn",
+        "href": "https://linkedin.com"
+      }
+    ]
+  }
+}

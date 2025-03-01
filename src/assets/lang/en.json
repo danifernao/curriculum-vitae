@@ -1,0 +1,196 @@
+{
+  "header": {
+    "name": "Juan Perez",
+    "headline": "Web Developer",
+    "about":
+      "I am a web developer passionate about creating intuitive and functional digital experiences. With experience in technologies such as HTML, CSS, JavaScript, and frameworks like React and Node.js, I specialize in building websites and interactive applications that are not only visually appealing but also efficient and accessible."
+  },
+  "aside": {
+    "photo": {
+      "filename": "photo.jpg",
+      "alt": "Profile photo"
+    },
+    "details": [
+      {
+        "heading": "Personal data",
+        "content": [
+          {
+            "heading": "ID",
+            "paragraph": "CC 100321654987"
+          },
+          {
+            "heading": "Age",
+            "paragraph": "32 years old"
+          },
+          {
+            "heading": "Residence address",
+            "paragraph": "500 Street #50-30 Apt. 14 Bogotá, Colombia"
+          },
+          {
+            "heading": "Phone number",
+            "paragraph": "+57 200 111 2222",
+            "href": "https://wa.me/+572001112222"
+          },
+          {
+            "heading": "Email address",
+            "paragraph": "juanperez@example.com",
+            "href": "mailto:juanperez@example.com"
+          }
+        ]
+      },
+      {
+        "heading": "Languages",
+        "content": [
+          {
+            "skills": [
+              {
+                "max_level": 6,
+                "curr_level": 4,
+                "description": "English B2"
+              },
+              {
+                "max_level": 6,
+                "curr_level": 6,
+                "description": "Spanish C2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "main": [
+    {
+      "heading": "Knowledge",
+      "content": [
+        {
+          "left": {
+            "heading": "Development:"
+          },
+          "right": {
+            "paragraph": "HTML5, CSS3, JavaScript, React, Node.js, Laravel, MySQL."
+          }
+        },
+        {
+          "left": {
+            "heading": "CMS:"
+          },
+          "right": {
+            "paragraph": "WordPress, Shopify."
+          }
+        },
+        {
+          "left": {
+            "heading": "Philosophies:"
+          },
+          "right": {
+            "paragraph": "Responsive design, SEO, interoperability."
+          }
+        },
+        {
+          "left": {
+            "heading": "Tools:"
+          },
+          "right": {
+            "paragraph": "Git, Visual Studio Code, Adobe Photoshop, Adobe Illustrator."
+          }
+        },
+        {
+          "left": {
+            "heading": "Technical:"
+          },
+          "right": {
+            "paragraph": "Computer maintenance, data network installation."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Education",
+      "content": [
+        {
+          "left": {
+            "heading": "2015 - 2019"
+          },
+          "right": {
+            "heading": "Software Engineering",
+            "paragraph": "Arcadia University"
+          }
+        },
+        {
+          "left": {
+            "heading": "2012 - 2014"
+          },
+          "right": {
+            "heading": "Technologist in Software Development",
+            "paragraph": "Solis Technological Institute"
+          }
+        },
+        {
+          "left": {
+            "heading": "2010 - 2011"
+          },
+          "right": {
+            "heading": "International English Certification B2",
+            "paragraph": "Horizonte Language Academy"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Work experience.",
+      "content": [
+        {
+          "left": {
+            "heading": "2024 - 2025",
+            "paragraph": "01/08 – 02/28"
+          },
+          "right": {
+            "heading": "Web Development Leader",
+            "paragraph": "NexoWeb Studios – Bogotá\nTels. (601) 444 4444 – 455 5555\nI supervised and coordinated the web development team. I defined the technological architectures. I ensured on-time delivery of projects and compliance with quality standards."
+          }
+        },
+        {
+          "left": {
+            "heading": "2022 - 2023",
+            "paragraph": "01/03 – 12/29"
+          },
+          "right":{
+            "heading": "Software Quality Engineer",
+            "paragraph": "InnovaWeb Labs – Bogotá\nTels. (601) 422 2222 – 433 3333\nI tested web sites and applications for bugs. I wrote and executed automated tests. I collaborated with developers to improve code quality."
+          }
+        },        
+        {
+          "left": {
+            "heading": "2020 - 2021",
+            "paragraph": "01/20 – 12/31"
+          },
+          "right": {
+            "heading": "Junior Web Developer",
+            "paragraph": "Tels. (601) 400 0000 – 411 1111\nI collaborated in the creation of websites using HTML, CSS and JavaScript. I assisted in the implementation of improvements and bug fixes. I participated in functionality testing."
+          }
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "description": "All the information presented on this page is fictitious. Image provided by JuliusBusch on Pixabay.com.",
+    "social": [
+      {
+        "icon": "x-twitter",
+        "title": "My X profile",
+        "href": "https://twitter.com"
+      },
+      {
+        "icon": "github",
+        "title": "My GitHub profile",
+        "href": "https://github.com"
+      },
+      {
+        "icon": "linkedin",
+        "title": "My LinkedIn profile",
+        "href": "https://linkedin.com"
+      }
+    ]
+  }
+}
