@@ -243,6 +243,7 @@ body, body > * {
   text-align: center;
 }
 
+/* Source: https://css-loaders.com/shapes/ */
 .loading .loader {
   --c: no-repeat linear-gradient(var(--color-gray) 0 0);
   background: var(--c), var(--c), var(--c),
