@@ -26,7 +26,7 @@ npm run dev
 
 El contenido de la hoja de vida está organizado por [códigos de idiomas](https://es.wikipedia.org/wiki/ISO_639-1#Lista_idiomas) y se puede editar en el archivo JSON correspondiente, ubicado en la carpeta `src/assets/lang/`.
 
-Para cambiar la fotografía, debes guardar la imagen en `public/images/`, copiar su nombre (junto con su extensión) y pegarlo como nuevo valor de la clave `filename` en el archivo JSON que estás editando.
+Para cambiar la fotografía, debes guardar la imagen en `public/images/`, copiar su nombre (junto con su extensión) y pegarlo como nuevo valor de la clave `filename` en el archivo JSON que estés editando.
 
 Ten presente que debes recargar la página en el navegador para poder visualizar los cambios.
 
