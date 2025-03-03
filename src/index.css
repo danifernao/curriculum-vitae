@@ -231,7 +231,7 @@ body, #root {
   border: 0.03rem solid var(--color-gray-light);
   border-radius: 0.3rem;
   font-family: Lato, serif;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 .loading {
