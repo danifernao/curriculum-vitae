@@ -28,6 +28,8 @@ El contenido de la hoja de vida está organizado por [códigos de idiomas](https
 
 Para cambiar la fotografía, debes guardar la imagen en `public/images/`, copiar su nombre (junto con su extensión) y pegarlo como nuevo valor de la clave `filename` en el archivo JSON que estés editando.
 
+Para cambiar el icono de algún sitio web del pie de página, debes [importarlo](https://docs.fontawesome.com/v5/web/use-with/react#using-icons-via-individual-use) en `src/App.jsx` y agregar su [nombre](https://fontawesome.com/search?o=r&ic=free&ip=brands) como nuevo valor de la clave `icon` correspondiente en el archivo JSON que estés editando.
+
 Ten presente que debes recargar la página en el navegador para poder visualizar los cambios.
 
 #### Agregar otro idioma
