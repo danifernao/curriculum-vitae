@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Curriculum Vitae / Hoja de vida
 
 Una hoja de vida tradicional elaborada con React, con la posibilidad de ofrecer el contenido en varios idiomas.
 
@@ -8,13 +8,15 @@ Una hoja de vida tradicional elaborada con React, con la posibilidad de ofrecer 
 
 1. Asegúrate de tener instalado Node.js y NPM.
 2. Descarga o clona este repositorio e ingresa a él.
-3. Instala las dependencias:
+3. Abre el terminal en dicha ubicación y ejecuta lo siguiente para instalar las dependencias:
 
 ```
 npm install
 ```
 
-4. Inicia el servidor de desarrollo:
+### Visualización
+
+Ubícate en la raíz del proyecto, abre el terminal en dicha ubicación y ejecuta lo siguiente para iniciar el entorno de desarrollo y visualizarlo en el explorador web:
 
 ```
 npm run dev
@@ -40,3 +42,13 @@ Ten presente que debes recargar la página en el navegador para poder visualizar
 4. Abre el archivo `src/components/CurriculumVitaeLanguage.jsx`.
 5. Agrega una nueva propiedad al objeto `supportedLangs` con el [código del nuevo idioma](https://es.wikipedia.org/wiki/ISO_639-1#Lista_idiomas) como clave y el nombre del idioma como valor.
 6. Guarda los cambios.
+
+### Producción
+
+Ubícate en la raíz del proyecto, abre el terminal en dicha ubicación y ejecuta lo siguiente para generar los archivos destinados a un entorno de producción:
+
+```
+npm run build
+```
+
+Estos se guardarán en una nueva carpeta llamada `dist`.
