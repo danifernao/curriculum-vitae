@@ -29,6 +29,8 @@ function Language({ handleData }) {
         handleData({ status: "error", data: null });
       })
       .finally(() => (selectRef.current.disabled = false));
+
+    document.documentElement.lang = language;
   };
 
   useEffect(() => {
