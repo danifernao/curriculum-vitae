@@ -1,6 +1,13 @@
+import { useEffect } from "react";
 import PropTypes from "prop-types";
 
 function Header({ cv }) {
+  useEffect(() => {
+    if (cv.name) {
+      document.title = cv.name;
+    }
+  });
+
   return (
     <header className="header-content">
       {cv.name && <h1 className="name">{cv.name}</h1>}
