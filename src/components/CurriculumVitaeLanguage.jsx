@@ -7,8 +7,8 @@ function Language({ handleData }) {
 
   // Idiomas habilitados:
   const supportedLangs = {
-    en: "English",
-    es: "Español",
+    en: { name: "English", selectLabel: "Change language" },
+    es: { name: "Español", selectLabel: "Cambiar idioma" },
   };
 
   const changeLanguage = (langCode = null) => {
@@ -52,10 +52,11 @@ function Language({ handleData }) {
       onChange={() => changeLanguage()}
       value={currentLang}
       ref={selectRef}
+      aria-label={supportedLangs[currentLang].selectLabel}
     >
       {Object.keys(supportedLangs).map((code, i) => (
         <option value={code} key={i}>
-          {supportedLangs[code]}
+          {supportedLangs[code].name}
         </option>
       ))}
     </select>

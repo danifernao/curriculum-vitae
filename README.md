@@ -40,7 +40,7 @@ Ten presente que debes recargar la página en el navegador para poder visualizar
 2. Cambia el nombre del archivo copiado por el [código del nuevo idioma](https://es.wikipedia.org/wiki/ISO_639-1#Lista_idiomas).
 3. Abre el archivo, traduce los valores de las propiedades deseadas y guarda los cambios.
 4. Abre el archivo `src/components/CurriculumVitaeLanguage.jsx`.
-5. Agrega una nueva propiedad al objeto `supportedLangs` con el [código del nuevo idioma](https://es.wikipedia.org/wiki/ISO_639-1#Lista_idiomas) como clave y el nombre del idioma como valor.
+5. Agrega una nueva propiedad al objeto `supportedLangs` con el [código del nuevo idioma](https://es.wikipedia.org/wiki/ISO_639-1#Lista_idiomas) como clave y un objeto como valor con el nombre del idioma y la etiqueta del elemento SELECT.
 6. Guarda los cambios.
 
 ### Producción
